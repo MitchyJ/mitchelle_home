@@ -845,10 +845,10 @@ section #title .credits.right {
     margin-top: 40px;
   }
   
-  side{
+  side {
     position: fixed;
     height: 132px;
-    left: 0;
+    left: 100px;
     top: 185px;
     width: 24px;
   }
